@@ -31,7 +31,7 @@
 プログラミングや動画編集などを身につけるために学習をしている時
 
 ## 設計書
-<img width="798" alt="ER図" src="https://user-images.githubusercontent.com/47805823/82262444-e5a50800-999b-11ea-98b9-6c5ae1a686eb.png">
+<img width="731" alt="ER図" src="https://user-images.githubusercontent.com/47805823/82298791-9ab4e000-99ef-11ea-9a6f-c86c58c57bc4.png">
 
 ### 機能一覧
 https://docs.google.com/spreadsheets/d/13EqbePyJrSjqL1tWEmb6nN7IuXXRJhwRCTUshOM4iMo/edit?usp=sharing
